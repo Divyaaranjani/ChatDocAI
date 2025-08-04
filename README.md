@@ -62,7 +62,7 @@ Support for multilingual documents
 
 Add user authentication
 
-
+# author
 # 👤 Divyaa Ranjani V E
 # 🎓 Passionate about AI, Java Full Stack & building smart tools.
 # 🔗 LinkedIn https://www.linkedin.com/in/divyaaranjanive/
